@@ -3,7 +3,7 @@
 <!--
 **snehasharma76/snehasharma76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Machine learning and Deep Learning Stuff
 - 🌱 I’m currently learning a lot of things. Let that be a secret🤫🤫
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: snehasharma7620@gmail.com , https://www.linkedin.com/in/sneha-kumari-825b5219a/
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a crazy coffee lover. You can talk me about anything that relates to books, technology or finance.
--->
+
