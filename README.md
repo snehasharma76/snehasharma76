@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Machine learning and Deep Learning Stuff
-- 🌱 I’m currently learning a lot of things. Let that be a secret🤫🤫
+- 🌱 I’m learning everyday:)
 - 👯 I’m looking to collaborate on Machine learning related projects or research work.
 - 📫 How to reach me: snehasharma7620@gmail.com , https://www.linkedin.com/in/sneha-kumari-825b5219a/
 - 😄 Pronouns: She/her
