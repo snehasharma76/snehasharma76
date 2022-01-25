@@ -5,14 +5,15 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Blockchain technology💲
-- 🌱 I’m learning everyday:)
-- 👯 I’m looking to collaborate on Machine learning related projects or research work.
-- 📫 How to reach me: snehasharma7620@gmail.com , https://www.linkedin.com/in/snehasharma76/
+<!--- 🔭 I’m currently working on Blockchain technology💲
+- 🌱 I’m learning everyday:)-->
+- 👯 I’m looking to collaborate on Machine learning related projects or research work.-->
+- 📫 How to reach me: snehasharma7620@gmail.com , 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a crazy coffee lover. You can talk me about anything that relates to books, technology or finance.
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Sneha)
-<h3 align="center">A passionate Competitive Programmer 💻</h3>
+<h3 align="center">I’m currently working on Blockchain technology💲 
+I’m looking to collaborate on Machine learning related projects or research work.💻</h3>
 
 ![](https://komarev.com/ghpvc/?username=snehasharma76&color=blueviolet&style=flat)
 
@@ -34,8 +35,8 @@ Here are some ideas to get you started: -->
 <h3> Connect with me on: </h3>
 <p align="center">
 
-<!-- a ref = "https://www.linkedin.com/in/anshul-aditya-7315431ab/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/aadi_anshul"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/anshuladitya_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+<a href = "https://www.linkedin.com/in/snehasharma76/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/audaciousSneha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!--<a href = "https://www.instagram.com/anshuladitya_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 </p>
