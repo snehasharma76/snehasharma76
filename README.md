@@ -11,9 +11,9 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: snehasharma7620@gmail.com , 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a crazy coffee lover. You can talk me about anything that relates to books, technology or finance.
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Sneha)
-<h3 align="center">I’m currently working on Blockchain technology💲 
-!!!I’m looking to collaborate on Machine learning related projects or research work.💻</h3>
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&color=green&lines=Hey+👋,+I'm+Sneha+ Welcome+ to+ my+ Github+ World)
+<h3 align="center">I’m currently working on Blockchain technology💲 </h3>
+<h4>I’m looking to collaborate on Machine learning related projects or research work.💻</h4>
 
 ![](https://komarev.com/ghpvc/?username=snehasharma76&color=blueviolet&style=flat)
 
