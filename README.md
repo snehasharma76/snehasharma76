@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Blockchain technology💲
-- 🌱 I’m learning everyday:)-->
+- 🌱 I’m learning everyday:)
 - 👯 I’m looking to collaborate on Machine learning related projects or research work.-->
 - 📫 How to reach me: snehasharma7620@gmail.com , 
 - 😄 Pronouns: She/her
@@ -32,7 +32,7 @@ Here are some ideas to get you started: -->
 
 
 
-<h3> Connect with me on: </h3>
+<h3>Up for Virtual Coffee and Conversation Connect with me on: </h3>
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/snehasharma76/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
