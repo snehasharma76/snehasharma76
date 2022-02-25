@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=snehasharma76&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
- ## Watch my contributions✅ get eaten by a snake 🐍🐍
+ ## Watch my contributions✅ get eaten by a snake�🐍
 ![snake gif](https://github.com/snehasharma76/snehasharma76/blob/output/github-contribution-grid-snake.svg)
 
 <p>
