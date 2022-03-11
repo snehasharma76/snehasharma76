@@ -6,7 +6,6 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Blockchain technology💲
-<!-- 🌱 I’m learning everyday:)-->
 - 👯 I’m looking to collaborate on Machine learning related projects or research work.
 - 📫 How to reach me: snehasharma7620@gmail.com , 
 - 😄 Pronouns: She/her
